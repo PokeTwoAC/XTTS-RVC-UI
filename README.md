@@ -11,7 +11,7 @@ This is a simple UI that utilize's [Coqui's XTTSv2](https://github.com/coqui-ai/
 Clone this repository:
 
 ```
-git clone https://github.com/Vali-98/XTTS-RVC-UI.git
+git clone https://github.com/PokeTwoAC/XTTS-RVC-UI.git
 ```
 
 It is recommended to create a venv.
